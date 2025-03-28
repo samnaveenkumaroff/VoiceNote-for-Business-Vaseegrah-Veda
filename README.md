@@ -21,6 +21,22 @@
 
 ## 📂 Project File Structure
 
+```
+VoiceNote-for-Business-Vaseegrah-Veda/
+├── VoicetoText.py           # Handles voice-to-text conversion
+├── TexttoVoice.py           # Converts text responses back to voice
+├── VNText.csv               # Stores processed text data
+├── requirements.txt         # Project dependencies
+├── Dockerfile               # Containerization setup
+├── LICENSE                  # Licensing information
+├── README.md                # Documentation
+├── Voice-Notes/
+│   ├── Received/            # Incoming WhatsApp voice notes
+│   └── Sent/                # Generated response voice notes
+├── Images/                  # UI assets for the Tkinter GUI
+└── ffmpeg-7.0.1/            # Audio processing dependency
+```
+
 ### Key Project Components
 
 #### 1. `VoicetoText.py`
