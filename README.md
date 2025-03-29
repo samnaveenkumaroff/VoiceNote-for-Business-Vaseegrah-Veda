@@ -353,7 +353,7 @@ Apache 2.0 License
 
 **Sam Naveenkumar V**
 - Email: samnaveenkumaroff@gmail.com
-- LinkedIn: [Sam Naveenkumar](https://www.linkedin.com/in/samnaveenkumar)
+- LinkedIn: [samnaveenkumaroff](https://www.linkedin.com/in/samnaveenkumaroff)
 
 ---
 
