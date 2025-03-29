@@ -149,6 +149,45 @@ pip install -r requirements.txt
 
 ### 3. FFmpeg Installation
 
+## 🛠 FFmpeg Setup (Bundled Version)
+
+The project includes a **pre-packaged FFmpeg version (ffmpeg-7.0.1.zip)** for seamless installation. Follow the steps below to use it:
+
+### Windows Installation
+1. Extract the `ffmpeg-7.0.1.zip` archive to your preferred directory.
+2. Inside the extracted folder, locate `bin/ffmpeg.exe`.
+3. Add the **bin** folder to the system PATH:
+   - Open **System Properties** → **Advanced** → **Environment Variables**.
+   - Under **System Variables**, find `Path` and edit it.
+   - Click **New** and add the full path to the `bin` folder.
+   - Click OK and restart your terminal.
+4. Verify installation:
+   ```bash
+   ffmpeg -version
+   ```
+
+### MacOS Installation
+```bash
+unzip ffmpeg-7.0.1.zip
+mv ffmpeg-7.0.1 /usr/local/bin/ffmpeg
+export PATH=$PATH:/usr/local/bin/ffmpeg/bin
+```
+Verify with:
+```bash
+ffmpeg -version
+```
+
+### Linux Installation
+```bash
+unzip ffmpeg-7.0.1.zip
+sudo mv ffmpeg-7.0.1 /usr/local/ffmpeg
+export PATH=$PATH:/usr/local/ffmpeg/bin
+```
+Verify with:
+```bash
+ffmpeg -version
+```
+
 #### Windows
 1. Download from [FFmpeg Official Site](https://ffmpeg.org/download.html)
 2. Extract and add to system PATH
