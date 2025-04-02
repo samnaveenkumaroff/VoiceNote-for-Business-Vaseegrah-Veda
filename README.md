@@ -354,13 +354,13 @@ Apache 2.0 License
 ## 👨‍💻 Author
 
 **Sam Naveenkumar V**
-- Email: mailto:samnaveenkumaroff@gmail.com
+- Email: samnaveenkumaroff@gmail.com
 - LinkedIn: [samnaveenkumaroff](https://www.linkedin.com/in/samnaveenkumaroff)
 
 
 
 **Soorya K**
-- Email: mailto:sooryak@karunya.edu.in
+- Email: sooryak@karunya.edu.in
 - LinkedIn: [samnaveenkumaroff]([https://www.linkedin.com/in/samnaveenkumaroff](https://www.linkedin.com/in/soorya-k-866997249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
