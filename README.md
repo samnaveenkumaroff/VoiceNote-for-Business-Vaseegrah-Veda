@@ -361,7 +361,7 @@ Apache 2.0 License
 
 **Soorya K**
 - Email: sooryak@karunya.edu.in
-- LinkedIn: [samnaveenkumaroff]([https://www.linkedin.com/in/samnaveenkumaroff](https://www.linkedin.com/in/soorya-k-866997249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- LinkedIn: [SOORYA K]((https://www.linkedin.com/in/soorya-k-866997249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
 
