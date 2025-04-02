@@ -1,4 +1,6 @@
 # VoiceNote for Business - Vaseegrah Veda 🌿
+![img](https://github.com/user-attachments/assets/70e21214-532c-4310-99e3-28041e2d1b7a)
+
 
 ## 🚀 Empowering Business Communication Through Voice Technology
 
