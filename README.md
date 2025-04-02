@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-**VoiceNote for Business** is an innovative solution developed by **Sam Naveenkumar V** to revolutionize business communication, particularly for rural and multilingual markets. This project enables businesses to process customer queries via WhatsApp voice notes, breaking down language and technological barriers.
+**VoiceNote for Business** is an innovative solution to revolutionize business communication, particularly for rural and multilingual markets. This project enables businesses to process customer queries via WhatsApp voice notes, breaking down language and technological barriers.
 
 ---
 
