@@ -362,7 +362,10 @@ Apache 2.0 License
 **Soorya K**
 - Email: sooryak@karunya.edu.in
 - LinkedIn: [SOORYA K](https://www.linkedin.com/in/soorya-k-866997249)
-
+  
+**Dhuruv Swamy R**
+- Email: dhuruvswamy@karunya.edu.in
+- LinkedIn: [Dhuruv Swamy R](https://www.linkedin.com/in/dhuruv-swamy-r-1a42041b8/)
 ---
 
 ## 🙏 Acknowledgements
