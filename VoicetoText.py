@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import filedialog
 
-# Initialize translator
+# Initialize translator for voice
 translator = Translator()
 
 # Function to convert voice note to English text and translate
