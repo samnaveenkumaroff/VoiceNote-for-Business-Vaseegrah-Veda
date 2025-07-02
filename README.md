@@ -10,7 +10,7 @@
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Features +
 
 - **Multilingual Voice Processing**
 - **WhatsApp Business API Integration**
