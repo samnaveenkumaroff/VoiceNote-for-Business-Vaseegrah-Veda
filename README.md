@@ -4,7 +4,7 @@
 
 ## 🚀 Empowering Business Communication Through Voice Technology
 
-### Project Overview
+### Project (Overview) 
 
 **VoiceNote for Business** is an innovative solution to revolutionize business communication, particularly for rural and multilingual markets. This project enables businesses to process customer queries via WhatsApp voice notes, breaking down language and technological barriers.
 
